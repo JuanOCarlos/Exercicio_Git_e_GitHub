@@ -1,0 +1,2 @@
+1-a. git commit
+2-d. git init
